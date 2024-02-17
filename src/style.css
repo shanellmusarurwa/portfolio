@@ -100,7 +100,7 @@ p {
   }
   .project-link {
     display: block;
-    text-align: center;
     margin: 0 20px;
+    text-align: center;
   }
 }
